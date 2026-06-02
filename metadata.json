@@ -1,0 +1,8 @@
+{
+  "name": "ResumeReality",
+  "description": "An interactive, cyber-academic neural resume scanner that roasts generic AI phrases and drafts high-impact bullet suggestion metrics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
