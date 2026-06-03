@@ -14,12 +14,12 @@ import {
   Target
 } from "lucide-react";
 import { motion, AnimatePresence } from "motion/react";
-import Header from "./components/Header";
-import Footer from "./components/Footer";
-import ResumeScoring from "./components/ResumeScoring";
-import ThreeDSandbox from "./components/ThreeDSandbox";
-import InfoPages from "./components/InfoPages";
-import { SAMPLE_TEMPLATES } from "./data/templates";
+import Header from "./Header";
+import Footer from "./Footer";
+import ResumeScoring from "./ResumeScoring";
+import ThreeDSandbox from "./ThreeDSandbox";
+import InfoPages from "./InfoPages";
+import { SAMPLE_TEMPLATES } from "./templates";
 import { ScanResult, ResumeTemplate } from "./types";
 
 export default function App() {
